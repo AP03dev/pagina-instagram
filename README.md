@@ -6,7 +6,7 @@
 <hr>
 
 <h1 align="center">
-   Portfolio 
+   Página Instagram 
 </h1>
 <img align="center" src="./images/instagram-celular.png" width="100%">
 <br><hr>
